@@ -1,0 +1,1001 @@
+skills,qualification,experience_level,recommend_career
+"Python, SQL, TensorFlow, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Spring, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Figma, Adobe XD, UI/UX Design, Creativity",Bachelor's in Design,Entry,Designer
+"Python, Django, JavaScript, React, Agile",Master's in Computer Science,Mid,Full Stack Python Developer
+"Financial Modeling, Excel, Communication, Risk Analysis",Master's in Finance,Senior,Finance
+"C++, Unreal Engine, Game Design",Bachelor's in Game Development,Mid,Game Developer
+"Kubernetes, Docker, AWS, CI/CD, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"Java, Spring Boot, Hibernate, Microservices",Bachelor's in Software Engineering,Mid,Full Stack Java Developer
+"Solidity, Ethereum, JavaScript, Blockchain",Bachelor's in Computer Science,Entry,Blockchain Developer
+"Marketing Strategy, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing
+"Recruitment, HR Policies, Communication, Leadership",Master's in Human Resources,Senior,HR
+"C#, .NET, SQL, ASP.NET",Bachelor's in Computer Science,Mid,C# Developer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Swift, iOS Development, Objective-C, UI/UX",Bachelor's in Computer Science,Mid,Mobile Developer
+"Network Security, Penetration Testing, Firewalls",Bachelor's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Senior,Software Project Manager
+"C++, Unity, Game Design, 3D Modeling",Bachelor's in Game Development,Entry,Video Game Designer
+"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Mid,Data Analyst
+"Kubernetes, Helm, AWS, Terraform",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Node.js, MongoDB",Bachelor's in Computer Science,Mid,Web Developer
+"Python, Machine Learning, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML
+"Java, Android Development, Kotlin, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, Angular, Microservices",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe Illustrator, Photoshop, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, Tableau, Data Analysis, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C#, Unity, Game Physics, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, WordPress, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, Data Science",Master's in Data Science,Mid,Data Scientist
+"Blockchain, Smart Contracts, Solidity, Web3",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, Google Analytics, SEO, PPC",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker, CI/CD",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Angular",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android Development, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, PostgreSQL, JavaScript",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring Boot, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX Design, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Tableau, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Physics, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, Machine Learning",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, TypeScript",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Communication",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management, Scrum",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, Terraform",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, Game Design, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS, Redux",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Strategy, SEO, Social Media, PPC",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, Firewalls",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,"Entry,",Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3js, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist
+"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer
+"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer
+"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer
+"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer
+"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer
+"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer
+"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer
+"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR
+"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer
+"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager
+"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst
+"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer
+"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer
+"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML
+"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer
+"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer
+"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer
+"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer
+"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst
+"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer
+"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer
+"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer
+"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist
+"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer
+"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer
+"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer
+"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing
+"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR
+"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer
+"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer
+"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer
+"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager
