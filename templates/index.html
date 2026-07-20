@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PathFinder Chatbot</title>
+    
+    <style>
+        .main-title {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#intro-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #111;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 9999;
+
+    animation: fadeOut 3s forwards;
+}
+
+#intro-screen h2 {
+
+    color: white;
+
+    font-size: 55px;
+
+    font-weight: bold;
+
+    letter-spacing: 3px;
+
+    text-shadow:
+        0 0 10px #00e5ff,
+        0 0 20px #00e5ff,
+        0 0 40px #00e5ff;
+
+    animation: cinematicZoom 3s ease forwards;
+}
+
+@keyframes cinematicZoom {
+
+    0% {
+        transform: scale(0.2) rotateX(90deg);
+        opacity: 0;
+        filter: blur(15px);
+    }
+
+    40% {
+        transform: scale(1.2) rotateX(0deg);
+        opacity: 1;
+        filter: blur(0);
+    }
+
+    70% {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(3);
+        opacity: 0;
+        filter: blur(10px);
+    }
+}
+
+@keyframes fadeOut {
+    0%, 80% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+       body {
+    font-family: Arial;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.chat-container {
+    width: 380px;
+    height: 650px;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 10px;
+
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+
+    box-shadow: 
+        0 10px 30px rgba(0,0,0,0.2),
+        inset 0 0 10px rgba(255,255,255,0.2);
+
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 12px;
+    overflow-y: auto;
+
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+}
+
+.user {
+    align-self: flex-end;
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    color: white;
+    padding: 12px 14px;
+    line-height: 1.5;
+    border-radius: 15px 15px 0 15px;
+    margin: 3px 5px;
+    max-width: 80%;
+
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.bot{
+    align-self:flex-start;
+
+    background:#fff;
+
+    padding:12px 15px;
+
+    margin:5px 0;
+
+    border-radius:18px 18px 18px 6px;
+
+    max-width:78%;
+
+    display:inline-block;
+
+    width:auto;
+
+    line-height:1.5;
+
+    white-space:normal;
+
+    word-break:break-word;
+}
+
+.input-area {
+    display: flex;
+    padding: 10px;
+    background: rgba(255,255,255,0.2);
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    background: #00c6ff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+button:hover {
+    background: #0099cc;
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.dots::after{
+    content: "";
+    animation: dots 1.5s steps(4,end) infinite;
+}
+
+@keyframes dots{
+    0%{
+        content:"";
+    }
+    25%{
+        content:".";
+    }
+    50%{
+        content:"..";
+    }
+    75%{
+        content:"...";
+    }
+    100%{
+        content:"";
+    }
+}
+</style>
+</head>
+
+<body>
+    <div id="intro-screen">
+    <h2>Career Guidance Chatbot</h2>
+    </div>
+   <h1 class="main-title">PathFinder 🤖</h1> 
+
+<div class="chat-container" id="Chatbot">
+
+    <div class="chat-box" id="chat-box">
+        <div class="bot">
+            👋 <b>Hi! I'm PathFinder.</b><br><br>
+
+            Enter your <b>Technical Skills</b> and
+            <b>Soft Skills</b>.<br>
+
+             I'll recommend the most suitable
+             career path for you.<br><br>
+
+            <b>Let's begin!</b> 🚀
+            </div>
+    </div>
+
+    <div class="input-area">
+        <input type="text" id="user-input" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<script>
+
+function typeLine(element, icon, text, callback = null) {
+
+    let i = 0;
+
+    let typing = setInterval(() => {
+
+        element.innerHTML =
+        `🤖 <b>PathFinder is analyzing your skills.....</b><br>
+        ${icon} ${text.substring(0, i + 1)}`;
+
+        i++;
+
+        if (i > text.length) {
+
+            clearInterval(typing);
+
+            if (callback) {
+                callback();
+            }
+
+        }
+
+    }, 35);
+
+}
+let step = 0;
+let userData = {};
+
+function sendMessage() {
+    let input = document.getElementById("user-input").value;
+    let chatBox = document.getElementById("chat-box");
+
+    if (input === "") return;
+
+    // Show user message
+    chatBox.innerHTML += `<div class="user">${input}</div>`;
+
+    document.getElementById("user-input").value = "";
+
+    
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    setTimeout(() => {
+        botReply(input);
+    }, 500);
+}
+
+function botReply(input) {
+    let chatBox = document.getElementById("chat-box");
+
+    if (step === 0) 
+    {
+        
+       const cleanedInput = input.trim().toLowerCase();
+       const greetings = [
+        "hi",
+        "hello",
+        "hey",
+        "how are you",
+        "good morning",
+        "good afternoon",
+        "good evening"
+       ];
+
+       if (
+         cleanedInput.startsWith("hi") ||
+         cleanedInput.startsWith("hello") ||
+         cleanedInput.startsWith("hey") ||
+         cleanedInput.includes("how are you") ||
+         cleanedInput.includes("good morning") ||
+         cleanedInput.includes("good afternoon") ||
+         cleanedInput.includes("good evening")
+        ) {
+          chatBox.innerHTML += `
+            <div class="bot">
+            👋 Please enter your <b> skills </b> first so I can recommend a suitable career path.
+            </div>
+             `;
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+            return;
+        }
+
+        userData.skills = input;
+        chatBox.innerHTML += `<div class="bot">Great! What's your <b>qualification?</b></div>`;
+        step++;
+    }
+    else if (step === 1) {
+
+        const qualification = input.trim().toLowerCase();
+
+        const invalidInputs = [
+          "hi", "hello", "hey",
+          "ok", "okay", "fine",
+          "thanks", "thank you",
+          "bye","wait",
+          "good morning",
+          "good afternoon",
+          "good evening",
+          "how are you"
+        ];
+
+        if (
+        invalidInputs.includes(qualification) ||
+        /^[!@#$%^&*()_+=?><[\]{}|\\]+$/.test(qualification) ||
+        /^\d+$/.test(qualification)
+           ) {
+
+              chatBox.innerHTML += `
+             <div class="bot">
+             ❌ Please enter a valid qualification.
+             <br><br>
+             Examples: MCA, B.Tech, B.Sc (MSCS), B.Com Computers, Diploma, Intermediate, 10th
+             </div>
+             `;
+
+             chatBox.scrollTop = chatBox.scrollHeight;
+             return;
+             }
+
+             userData.qualification = input;
+
+             chatBox.innerHTML += `
+             <div class="bot">
+             Nice! What's your <b>experience level?</b>
+            </div>
+             `;
+
+            step++;
+        }
+    else if (step === 2) {
+
+    const experience = input.trim().toLowerCase();
+
+    const invalidInputs = [
+        "hi", "hello", "hey",
+        "ok", "okay", "fine",
+        "wait", "yes", "no",
+        "thanks", "thank you",
+        "bye",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "how are you"
+    ];
+
+    if (
+        invalidInputs.includes(experience) ||
+        /^[!@#$%^&*()_+=?><[\]{}|\\]+$/.test(experience)
+    ) {
+
+        chatBox.innerHTML += `
+        <div class="bot">
+        ❌ Please enter a valid experience level.
+        <br><br>
+        Examples: Fresher, Intern, 6 Months, 1 Year, 2 Years, 5+ Years
+        </div>
+        `;
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+        return;
+    }
+
+    userData.experience = input;
+
+    let loadingId = "loading-" + Date.now();
+
+    chatBox.innerHTML += `
+    <div class="bot" id="${loadingId}">
+    🤖 <b>PathFinder is analyzing your skills......</b>
+    </div>
+    `;
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+    let dotCount = 5;
+
+    let dotAnimation = setInterval(() => {
+
+         let loading = document.getElementById(loadingId);
+
+         if (!loading) return;
+
+         dotCount++;
+
+         if (dotCount > 3) {
+            dotCount = 1;
+         }
+
+         loading.innerHTML =
+         `🤖 <b>PathFinder is analyzing your skills....${".".repeat(dotCount)}</b>`;
+
+    }, 500);
+
+    setTimeout(() => {
+
+      let loading = document.getElementById(loadingId);
+
+      if (loading) {
+
+        typeLine(
+            loading,
+            "⏳",
+            "Finding the best career match...",
+            () => {
+
+                typeLine(
+                    loading,
+                    "✨",
+                    "Preparing recommendations..."
+                );
+
+            }
+         );
+
+        }
+
+    },1000);
+    
+    fetch("/get_recommendation", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            skills: userData.skills,
+            qualification: userData.qualification,
+            experience: userData.experience
+        })
+    })
+.then(response => response.json())
+.then(data => {
+    console.log(data.career);
+
+    clearInterval(dotAnimation);
+    let loading = document.getElementById(loadingId);
+
+    if (loading) {
+
+        loading.remove();
+
+    } 
+let formattedCareers = "";
+if(Array.isArray(data.career)){
+
+   data.career.forEach(item => {
+
+    formattedCareers += `
+    <div style="margin-bottom:12px;">
+        <b>🎯 ${item.career}</b><br>
+
+      <span style="color:gray;">
+        ${item.reason}
+      </span>
+   </div>
+    `;
+});
+} else {
+    formattedCareers = ` <div>${data.career}</div>
+    `;
+}
+
+
+if (data.detected_skills.length > 0) {
+
+    chatBox.innerHTML += `
+    <div class="bot">
+    🎯 <b>Detected Skills:</b><br>
+    ${data.detected_skills.map(skill => `✅ ${skill}`).join("<br>")}
+
+    </div>
+    `;
+}
+
+chatBox.innerHTML += `
+<div class="bot">
+🎯 <b>Recommended Careers:</b><br><br>
+${formattedCareers}
+</div>
+`;
+    if (data.missing_skills && data.missing_skills.length > 0) {
+        chatBox.innerHTML += `
+        <div class="bot">
+        📚 <b>You need to learn:</b><br>
+        ${data.missing_skills.map(skill => `• ${skill}`).join("<br>")}
+        </div>`;
+    } else {
+        chatBox.innerHTML += `<div class="bot">✅ You already have required skills!</div>`;
+    }
+
+
+
+if (data.learning_resources && Object.keys(data.learning_resources).length > 0) {
+
+    for (const skill in data.learning_resources) {
+
+        const resources = data.learning_resources[skill];
+
+        chatBox.innerHTML += `
+        <div class="bot">
+        📚 <b>Learning Resources:</b>
+
+        📚 Learn ${skill}: <br>
+
+        <a href="${resources.YouTube}" target="_blank"> ▶ YouTube</a><br>
+
+        <a href="${resources.Coursera}" target="_blank">🎓Coursera</a><br>
+
+        <a href="${resources.GeeksforGeeks}" target="_blank">💻GeeksforGeeks</a>
+
+        </div>
+        `;
+    }
+}
+
+if (data.roadmap && data.roadmap.length > 0) {
+
+    let roadmapText = data.roadmap.map(step => {
+
+       return step.replace(
+        /(Step\s+\d+\s+→)/,
+        "<b>$1</b>"
+       );
+
+    }).join("<br>");
+    chatBox.innerHTML += `
+    <div class="bot">
+    🛣 <b>Learning Roadmap</b><br>
+
+    ${roadmapText}
+
+    </div>
+    `;
+}
+}); 
+
+    step++;
+}
+
+else {
+    let typingId = "typing-" + Date.now();
+
+    chatBox.innerHTML += `
+    <div class="bot" id="${typingId}">
+    🤖 <b>Thinking...</b>
+   </div>
+   `;
+
+   chatBox.scrollTop = chatBox.scrollHeight;
+
+   let dotCount = 0;
+
+   let typingAnimation = setInterval(() => {
+
+       let typing = document.getElementById(typingId);
+
+       if (!typing) return;
+
+       dotCount++;
+
+       if (dotCount > 3) dotCount = 1;
+
+       typing.innerHTML =
+       `🤖 <b>Thinking....${".".repeat(dotCount)}</b>`;
+
+    }, 500);
+
+    fetch("/chat", {
+
+        method: "POST",
+
+        headers: {
+
+            "Content-Type": "application/json"
+
+        },
+
+        body: JSON.stringify({
+
+            message: input
+
+        })
+
+    })
+
+    .then(response => response.json())
+
+    .then(data => {
+        clearInterval(typingAnimation);
+
+        let typing = document.getElementById(typingId);
+
+        if (typing) {
+           typing.remove();
+        }
+
+        chatBox.innerHTML += `
+        <div class="bot">
+        ${data.reply}
+        </div>
+        `;
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+
+    });
+
+}
+
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+
+</script>
+
+</body>
+</html>
